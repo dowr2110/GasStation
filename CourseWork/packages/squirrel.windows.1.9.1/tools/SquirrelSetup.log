@@ -1,0 +1,175 @@
+﻿2020-06-29 18:57:33> Program: Starting Squirrel Updater: --releasify Автозаправочная.1.0.1.nupkg
+2020-06-29 18:57:34> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 18:57:34> Unhandled exception: System.IO.FileNotFoundException: Файл 'Автозаправочная.1.0.1.nupkg' не найден.
+Имя файла: 'Автозаправочная.1.0.1.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2020-06-29 19:06:03> Program: Starting Squirrel Updater: --releasify Автозаправочная.1.0.1.nupkg
+2020-06-29 19:06:03> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:06:04> Unhandled exception: System.IO.FileNotFoundException: Файл 'Автозаправочная.1.0.1.nupkg' не найден.
+Имя файла: 'Автозаправочная.1.0.1.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2020-06-29 19:07:25> Program: Starting Squirrel Updater: --releasify GasStation.1.0.1.nupkg
+2020-06-29 19:07:25> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:07:25> Unhandled exception: System.IO.FileNotFoundException: Файл 'GasStation.1.0.1.nupkg' не найден.
+Имя файла: 'GasStation.1.0.1.nupkg'
+   в System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   в System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   в System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+2020-06-29 19:10:06> Program: Starting Squirrel Updater: --releasify GasStation.1.0.1.nupkg
+2020-06-29 19:10:06> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:10:06> Program: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg
+2020-06-29 19:10:06> ReleasePackage: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg => D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+2020-06-29 19:10:07> ReleasePackage: Extracting dependent packages: []
+2020-06-29 19:10:07> ReleasePackage: Removing unnecessary data
+2020-06-29 19:10:07> ReleasePackage: No release notes found in C:\Users\Админ\AppData\Local\SquirrelTemp\tempa\GasStation.nuspec
+2020-06-29 19:10:10> Program: Building embedded zip file for Setup.exe
+2020-06-29 19:10:12> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Dowr Atayew" --set-version-string "LegalCopyright" "Copyright © 2020 Dowr Atayew" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Dowr Atayew" --set-version-string "LegalCopyright" "Copyright © 2020 Dowr Atayew" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+
+2020-06-29 19:14:05> Program: Starting Squirrel Updater: --releasify GasStation.1.0.1.nupkg
+2020-06-29 19:14:05> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:14:05> Program: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg
+2020-06-29 19:14:05> ReleasePackage: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg => D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+2020-06-29 19:14:06> ReleasePackage: Extracting dependent packages: []
+2020-06-29 19:14:06> ReleasePackage: Removing unnecessary data
+2020-06-29 19:14:06> ReleasePackage: No release notes found in C:\Users\Админ\AppData\Local\SquirrelTemp\tempa\GasStation.nuspec
+2020-06-29 19:14:07> Program: Building embedded zip file for Setup.exe
+2020-06-29 19:14:08> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Dowr Atayew" --set-version-string "LegalCopyright" "Copyright © 2020 Dowr Atayew" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Dowr Atayew" --set-version-string "LegalCopyright" "Copyright © 2020 Dowr Atayew" --set-version-string "FileDescription" "My package description." --set-version-string "ProductName" "My package description." --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+
+2020-06-29 19:32:41> Program: Starting Squirrel Updater: --releasify GasStation.1.0.1.nupkg
+2020-06-29 19:32:41> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:32:41> Program: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg
+2020-06-29 19:32:41> ReleasePackage: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg => D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+2020-06-29 19:32:43> ReleasePackage: Extracting dependent packages: []
+2020-06-29 19:32:43> ReleasePackage: Removing unnecessary data
+2020-06-29 19:32:43> ReleasePackage: No release notes found in C:\Users\Админ\AppData\Local\SquirrelTemp\tempa\GasStation.nuspec
+2020-06-29 19:32:45> Utility: Failed to extract file D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg to C:\Users\Админ\AppData\Local\SquirrelTemp\tempa
+7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive:
+7 folders, 22 files, 16212941 bytes (16 MiB)
+
+Creating archive: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+
+Items to compress: 29
+
+
+
+
+ERROR: Can't allocate required memory!
+2020-06-29 19:32:45> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive:
+7 folders, 22 files, 16212941 bytes (16 MiB)
+
+Creating archive: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+
+Items to compress: 29
+
+
+
+
+ERROR: Can't allocate required memory!
+   в Squirrel.Utility.<CreateZipFromDirectory>d__23.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в System.Threading.Tasks.Task.Wait()
+   в Squirrel.ReleasePackage.CreateReleasePackage(String outputFile, String packagesRootDir, Func`2 releaseNotesProcessor, Action`1 contentsPostProcessHook)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: 7-Zip [64] 16.04 : Copyright (c) 1999-2016 Igor Pavlov : 2016-10-04
+
+Scanning the drive:
+7 folders, 22 files, 16212941 bytes (16 MiB)
+
+Creating archive: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+
+Items to compress: 29
+
+
+
+
+ERROR: Can't allocate required memory!
+   в Squirrel.Utility.<CreateZipFromDirectory>d__23.MoveNext()<---
+
+2020-06-29 19:39:28> Program: Starting Squirrel Updater: --releasify GasStation.1.0.1.nupkg
+2020-06-29 19:39:28> Program: Bootstrapper EXE found at:D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\Setup.exe
+2020-06-29 19:39:28> Program: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg
+2020-06-29 19:39:28> ReleasePackage: Creating release package: D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation.1.0.1.nupkg => D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\GasStation-1.0.1-full.nupkg
+2020-06-29 19:39:30> ReleasePackage: Extracting dependent packages: []
+2020-06-29 19:39:30> ReleasePackage: Removing unnecessary data
+2020-06-29 19:39:30> ReleasePackage: No release notes found in C:\Users\Админ\AppData\Local\SquirrelTemp\tempa\GasStation.nuspec
+2020-06-29 19:39:33> Program: Building embedded zip file for Setup.exe
+2020-06-29 19:39:36> Unhandled exception: System.AggregateException: Произошла одна или несколько ошибок. ---> System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Админ" --set-version-string "LegalCopyright" "Copyright © 2020 Админ" --set-version-string "FileDescription" "Simple website parser" --set-version-string "ProductName" "Simple website parser" --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   в System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   в Squirrel.Update.Program.<>c__DisplayClass10_0.<Releasify>b__6()
+   в Squirrel.Utility.<>c__DisplayClass8_0.<Retry>b__0()
+   в Squirrel.Utility.Retry[T](Func`1 block, Int32 retries)
+   в Squirrel.Utility.Retry(Action block, Int32 retries)
+   в Squirrel.Update.Program.Releasify(String package, String targetDir, String packagesDir, String bootstrapperExe, String backgroundGif, String signingOpts, String baseUrl, String setupIcon, Boolean generateMsi, String frameworkVersion, Boolean generateDeltas)
+   в Squirrel.Update.Program.executeCommandLine(String[] args)
+   в Squirrel.Update.Program.main(String[] args)
+---> (Внутреннее исключение #0) System.Exception: Failed to modify resources, command invoked was: 'D:\фит\ООП\курсовой довр 2 курс\CourseWork\packages\squirrel.windows.1.9.1\tools\rcedit.exe "D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Release\Releases\Setup.exe" --set-version-string "CompanyName" "Админ" --set-version-string "LegalCopyright" "Copyright © 2020 Админ" --set-version-string "FileDescription" "Simple website parser" --set-version-string "ProductName" "Simple website parser" --set-file-version 1.0.1 --set-product-version 1.0.1'
+
+Output was:
+Fatal error: Unable to load file
+   в Squirrel.Update.Program.<setPEVersionInfoAndIcon>d__20.MoveNext()<---
+

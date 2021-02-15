@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp7.App" Collapsed="true">
+    <Position X="12" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAEAAAAAAAGABQAAAAAAAAAAAECACAIAAAgAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="AddorderPage" />
+      <Field Name="AdminPage" />
+      <Field Name="AdminPage2" />
+      <Field Name="AdminPage3" />
+      <Field Name="AdminPageChangePassword" />
+      <Field Name="AdminPageStatistika" />
+      <Field Name="HomePage" />
+      <Field Name="LoginPage" />
+      <Field Name="OwnKabinet" />
+      <Field Name="RegistrPage" />
+      <Field Name="Statistika" />
+      <Property Name="MainWindowViewModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.Model1">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fuels" />
+      <Property Name="Admins" />
+      <Property Name="Orders" />
+      <Property Name="Users" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.Commands.RellayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\RellayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.addorder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\addorder.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.adminPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\adminPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.adminPage2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\adminPage2.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.adminPage3" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\adminPage3.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.adminPageChangePassword" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\adminPageChangePassword.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.adminPageStatistika" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\adminPageStatistika.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.home" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\home.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.login" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\login.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.ownkabinet" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\ownkabinet.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.registration" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\registration.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.pages.statistika" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pages\statistika.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AddOrderViewModel" Collapsed="true">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgAAgAAAAACAAAAAAQACAAEAAgABIASAAKAEgACA=</HashCode>
+      <FileName>ViewModels\AddOrderViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="AddOrderCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AdminViewModel" Collapsed="true">
+    <Position X="15.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAgAABAABAgCAAhAAgAEBAABABQCBAEAAAAAQgCAA=</HashCode>
+      <FileName>ViewModels\AdminViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="RefreshCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AdminViewModel2" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQAgKAAAABQACAAwAAgQEAAhHEBQKBAEAAAAIUgAAA=</HashCode>
+      <FileName>ViewModels\AdminViewModel2.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="Addfuelcommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AdminViewModel3" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAQAgKAAAABAACAAxAAgAEAAAMEDQADAEAAAIAQgCAA=</HashCode>
+      <FileName>ViewModels\AdminViewModel3.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="Addusercommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AdminViewModelChangePassword" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAABAACAAQAAAAAAAAEAAAAACAAAAAkAAAAA=</HashCode>
+      <FileName>ViewModels\AdminViewModelChangePassword.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="ToOrdersCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AdminViewModelStatistika" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAIgAAAAAAAACAAAAAAAAAAEEAAQBgAAAAAAGAAAAA=</HashCode>
+      <FileName>ViewModels\AdminViewModelStatistika.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="ToOrdersCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.AuthorizationViewModel" Collapsed="true">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAABAAAAQAAAAAAAAACAAQAAIAGAACA=</HashCode>
+      <FileName>ViewModels\AuthorizationViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="LoginCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.HomeViewModel" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAgABgAAAAAAAAggAAAAAAAAAAAAAOEAAAIBABACA=</HashCode>
+      <FileName>ViewModels\HomeViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="OpoveshCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.MainWindowViewModel" Collapsed="true">
+    <Position X="12" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAI=</HashCode>
+      <FileName>ViewModels\MainWindowViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_currentPage" />
+      <Property Name="CurrentPage" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.ownkabinetViewModel" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAABAACAAQAAAAAgAAEAIQABCAAAAIkAAACA=</HashCode>
+      <FileName>ViewModels\ownkabinetViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="ChangeParolCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.RegistrationViewModel" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAQAgAAAAIQADCAQAAIgEAACA=</HashCode>
+      <FileName>ViewModels\RegistrationViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="ToAuthorizationCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.statistikaViewModel" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAIgAAAAAAAACAAAAAAAAAAEEAAQBhAAAAAAGAAAAA=</HashCode>
+      <FileName>ViewModels\statistikaViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_db" />
+      <Property Name="ToOrdersCommand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WpfApp7.ViewModels.ViewModelBase" Collapsed="true">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ViewModelBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Data.Entity.DbSet&lt;TEntity&gt;" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.Page" Collapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

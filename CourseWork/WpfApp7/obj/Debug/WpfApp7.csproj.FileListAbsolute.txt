@@ -1,0 +1,228 @@
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\home.g.cs
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\login.g.cs
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\registration.g.cs
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\home.baml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\login.baml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\pages\registration.baml
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\Админ\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\home.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\login.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\registration.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\home.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\login.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\registration.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\addorder.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\addorder.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage2.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage2.baml
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage3.g.cs
+C:\Users\Админ\source\repos\WpfApp7 — копия\WpfApp7\obj\Debug\pages\adminPage3.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.SqlServer.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.xml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.SqlServer.xml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\addorder.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage2.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage3.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\home.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\login.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\registration.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\App.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\MainWindow.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\addorder.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage2.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage3.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\home.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\login.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\registration.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\WpfApp7.exe.config
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\WpfApp7.exe
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\WpfApp7.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\EntityFramework.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\EntityFramework.SqlServer.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\EntityFramework.xml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\bin\Debug\EntityFramework.SqlServer.xml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\addorder.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage2.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage3.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\home.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\login.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\registration.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\App.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\MainWindow.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\addorder.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage2.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPage3.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\home.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\login.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\registration.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.g.resources
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.exe
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\WpfApp7.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\ownkabinet.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\statistika.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\ownkabinet.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\statistika.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPageStatistika.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork2\WpfApp7\obj\Debug\pages\adminPageStatistika.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageStatistika.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\ownkabinet.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\statistika.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageStatistika.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\ownkabinet.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\statistika.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\App.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignColors.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignColors.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageChangePassword.g.cs
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageChangePassword.baml
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.exe.config
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.exe
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная_MarkupCompile.cache
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная_MarkupCompile.lref
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.g.resources
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.exe
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Mdb.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Pdb.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Rocks.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\NuGet.Squirrel.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\SharpCompress.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Splat.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Squirrel.dll
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\NuGet.Squirrel.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Splat.pdb
+D:\фит\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Squirrel.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.exe.config
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.exe
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Автозаправочная.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignColors.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\NuGet.Squirrel.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\SharpCompress.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Splat.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Squirrel.dll
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.xml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignColors.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\NuGet.Squirrel.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Splat.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\bin\Debug\Squirrel.pdb
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\addorder.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage2.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage3.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageChangePassword.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageStatistika.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\home.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\login.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\ownkabinet.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\registration.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\statistika.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\App.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная_MarkupCompile.cache
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная_MarkupCompile.lref
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\App.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\MainWindow.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\addorder.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage2.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPage3.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageChangePassword.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\adminPageStatistika.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\home.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\login.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\ownkabinet.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\registration.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\pages\statistika.baml
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.g.resources
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.exe
+C:\Довр\ФИТ\ООП\курсовой довр 2 курс\CourseWork\WpfApp7\obj\Debug\Автозаправочная.pdb
